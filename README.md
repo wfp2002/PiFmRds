@@ -1,6 +1,8 @@
 Pi-FM-RDS
 =========
 
+Original Files and credits: 
+https://github.com/ChristopheJacquet/PiFmRds
 
 ## FM-RDS transmitter using the Raspberry Pi
 
